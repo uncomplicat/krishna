@@ -67,7 +67,7 @@
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "menu.html": {
